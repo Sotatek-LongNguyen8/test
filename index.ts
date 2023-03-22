@@ -3,3 +3,4 @@ var b = 6;
 var c = 7;
 var d = 8;
 var f = "string";
+var e = 9;
